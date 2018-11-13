@@ -3,7 +3,7 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-
+    《强大的亮哥哥》
     <!--<groupId>qddlgg.git</groupId>-->
     <!--合格的程序猿，这我就不能忍了，辛苦撸出来的10几个文件代码就这样没了，于是就开始各种折腾git，又是百度又是回顾廖大大的git教程，最后终于解决了这个问题。-->
 
