@@ -4,31 +4,13 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>qddlgg.git</groupId>
-    <artifactId>git-test</artifactId>
-    <!--hahhgfhgfhgfhfgahha-->./,m.m.,mghgj
-    <!--<versbionhgfhgfhgfhgfh>4.0-ds&lt;!&gndash;hahhahhaSHOT</version>&ndash;&gt;-->
-    <!--!&#45;&#45;<verdsfdsfdsfsion>2.0-SNAPSHOT</version>&ndash;&gt;-->
-    <!--<ve</verghfghfghfghsion>-->
-    <!--<versioHOT</version>-->mjg
-    <version>4.0-SNAPSHOT</version>
-    <!--<version>4.0-dsfsdfSNAPSHOT</version>-->
-    <!--!&#45;&#HOT</version>
-    <!--!&#45;&#45;<version>2.0-SNAPSHOT</version>&ndash;&gt;-->
-    <!--<version>3.0-SNAPSHOT</version>-->
-    <!--<version>4.0-SNAPSHOT</version>-->
+    <!--<groupId>qddlgg.git</groupId>-->
+    <!--合格的程序猿，这我就不能忍了，辛苦撸出来的10几个文件代码就这样没了，于是就开始各种折腾git，又是百度又是回顾廖大大的git教程，最后终于解决了这个问题。-->
 
-    <!--<version>4.0-dsfsdfSNAPSHOT</version>-->
-    <!--!&#45;&#HOT</version>
-    <!--!&#45;&#45;<version>2.0-SNAPSHOT</version>&ndash;&gt;-->
-    <!--<version>3.0-SNAPSHOT</version>-->
-    <!--<version>4.0-SNAPSHOT</version>-->
-
-    <!--<version>4.0-dsfsdfSNAPSHOT</version>-->
-    <!--!&#45;&#HOT</version>
-    <!--!&#45;&#45;<version>2.0-SNAPSHOT</version>&ndash;&gt;-->
-    <!--<version>3.0-SNAPSHOT</version>-->
-    <!--<version>4.0-SNAPSHOT</version>-->
-
-    <!--ssh-->
+    <!--    经百度上大神的解决方式，最后成功恢复了消失的代码。原来就是git有一个存档机制，当用户还没commit的代码，git会选择暂时保存在stash中，关于stash建议观看廖大大的工作区与暂存区-->
+    <!-- -&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;-->
+    <!--作者：蓝小七-->
+    <!--来源：CSDN-->
+    <!--原文：https://blog.csdn.net/zaq12346zaqwsx/article/details/80093749-->
+    <!--版权声明：本文为博主原创文章，转载请附上博文链接！-->
 </project>
